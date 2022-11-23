@@ -1,8 +1,17 @@
 # DataExplorationSQL
 
 <h4>Link to Dataset https://ourworldindata.org/covid-deaths</h4>
+This is a dataset that is on constant updating as the Covid-19 data changes.
 
- <h6>Fun project working with SQL queries and exploring the covid data</h6>
+Link to tableau Dashboard: https://public.tableau.com/app/profile/brenda.gilisho/viz/Covid-19Data_16692091475400/Dashboard1
+
+ <h6>This project involved working with SQL queries and exploring Covid-19 data</h6>
  <h6>I split the table into two tables; CovidDeaths and CovidVaccinations</h6>
  <h6>I explored the individual tables and later used joins to join the two tables to</h6>
- <h6>query data that required both tables</h6>
+ <h6>query data that required both tables</h6>![covid1](https://user-images.githubusercontent.com/57228014/203558962-034a091c-391a-47dc-a40e-93a6ec5ef668.JPG)
+
+
+
+ 
+ 
+ 
